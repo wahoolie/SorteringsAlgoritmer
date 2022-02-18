@@ -1,0 +1,16 @@
+C:\Users\Krist\Desktop\Coding\C# Uppgift\bin\Debug\net5.0\C# Uppgift.exe
+C:\Users\Krist\Desktop\Coding\C# Uppgift\bin\Debug\net5.0\C# Uppgift.deps.json
+C:\Users\Krist\Desktop\Coding\C# Uppgift\bin\Debug\net5.0\C# Uppgift.runtimeconfig.json
+C:\Users\Krist\Desktop\Coding\C# Uppgift\bin\Debug\net5.0\C# Uppgift.runtimeconfig.dev.json
+C:\Users\Krist\Desktop\Coding\C# Uppgift\bin\Debug\net5.0\C# Uppgift.dll
+C:\Users\Krist\Desktop\Coding\C# Uppgift\bin\Debug\net5.0\ref\C# Uppgift.dll
+C:\Users\Krist\Desktop\Coding\C# Uppgift\bin\Debug\net5.0\C# Uppgift.pdb
+C:\Users\Krist\Desktop\Coding\C# Uppgift\obj\Debug\net5.0\C# Uppgift.csprojAssemblyReference.cache
+C:\Users\Krist\Desktop\Coding\C# Uppgift\obj\Debug\net5.0\C# Uppgift.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Krist\Desktop\Coding\C# Uppgift\obj\Debug\net5.0\C# Uppgift.AssemblyInfoInputs.cache
+C:\Users\Krist\Desktop\Coding\C# Uppgift\obj\Debug\net5.0\C# Uppgift.AssemblyInfo.cs
+C:\Users\Krist\Desktop\Coding\C# Uppgift\obj\Debug\net5.0\C# Uppgift.csproj.CoreCompileInputs.cache
+C:\Users\Krist\Desktop\Coding\C# Uppgift\obj\Debug\net5.0\C# Uppgift.dll
+C:\Users\Krist\Desktop\Coding\C# Uppgift\obj\Debug\net5.0\ref\C# Uppgift.dll
+C:\Users\Krist\Desktop\Coding\C# Uppgift\obj\Debug\net5.0\C# Uppgift.pdb
+C:\Users\Krist\Desktop\Coding\C# Uppgift\obj\Debug\net5.0\C# Uppgift.genruntimeconfig.cache
